@@ -6,6 +6,10 @@ description 'Installs/Configures dev'
 long_description 'Installs/Configures dev'
 version '0.1.0'
 
+depends 'vim'
+depends 'git'
+depends 'tmux'
+
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
 # issues_url 'https://github.com/<insert_org_here>/dev/issues' if respond_to?(:issues_url)

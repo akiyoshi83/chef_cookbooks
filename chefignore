@@ -79,7 +79,7 @@ Rakefile
 #############
 Berksfile
 Berksfile.lock
-cookbooks/*
+berks-cookbooks/*
 tmp
 
 # Policyfile #
